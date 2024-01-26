@@ -1,4 +1,4 @@
-[C++](https://www.w3schools.com/cpp/)
+
 
 Hi I am @ramin-golzar
 
