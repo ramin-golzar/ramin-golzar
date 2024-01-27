@@ -1,5 +1,3 @@
-
-
 🌷 Hi, I'm Ramin, a ***php*** programmer
 
 ## ℹ️ About Me
